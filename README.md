@@ -1,6 +1,6 @@
 # Bug Tracker System
 
-A full-stack bug tracking application** built with React.js and Spring Boot that enables teams to report, assign, and resolve bugs efficiently. Designed for seamless collaboration between developers, testers, and project managers.
+A full-stack bug tracking application built with React.js and Spring Boot that enables teams to report, assign, and resolve bugs efficiently. Designed for seamless collaboration between developers, testers, and project managers.
 
 ## Features
 
